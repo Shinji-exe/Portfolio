@@ -1,0 +1,44 @@
+.vertical-timeline-element--education{
+
+}
+
+.long{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.GAInfo{
+    color: black;
+    
+}
+
+.long svg{
+   color: white;
+   /* border: 2px solid black; */
+ /* background-color: rgba(100, 97, 97, 0.5); */
+ border-radius: 90px;
+    font-size: 35px;
+    width: 100px;
+    
+}
+
+.programList{
+    display: flex;
+}
+
+.programList li{
+    border: 2px solid black;
+    border-radius: 90px;
+    width: 70px;
+    text-align: center;
+}
+
+
+li{
+    /* color: white */
+}
+
+li p{
+    
+}
